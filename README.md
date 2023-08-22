@@ -6,6 +6,8 @@ Hi!<br><br>My current aspiration is to become a Java Developer.<br><br>**Right n
 
 
 ---
+![CodeWars](https://www.codewars.com/users/maiky123/badges/large)<br>
 [![](https://visitcount.itsvg.in/api?id=mich-wierzch&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
